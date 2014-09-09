@@ -13,6 +13,10 @@ Changelog
 * **1.0.1**: Check file read and write permissions before beginning patch process. 
 * **1.0.0**: Initial Release
 
+Download
+--------
+You can grab downloads of current and past versions from our [Jenkins server](http://ci.md-5.net/job/SpigotPatcher/).
+
 TODO
 ----
-Simple and easy to use GUI.
+* Simple and easy to use GUI.
